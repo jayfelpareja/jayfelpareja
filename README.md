@@ -52,7 +52,9 @@
 
 ### 🚀 Currently Exploring
 
-`React.js` • `Next.js` • `TypeScript` • `Laravel` • `Tailwind CSS`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,laravel,&perline=8" />
+</p>
 
 ---
 
