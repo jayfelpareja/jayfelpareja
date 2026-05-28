@@ -2,7 +2,7 @@
 
 # Jayfel Pareja
 
-### `Computer Engineer • Web Developer • UI Designer`
+Web Developer • Web Designer
 
 <p align="center">
   <a href="https://jayfelpareja.vercel.app">
