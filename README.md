@@ -41,14 +41,6 @@
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jayfelpareja&show_icons=true&theme=transparent&hide_border=true&title_color=6C63FF&text_color=ffffff&icon_color=6C63FF" />
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jayfelpareja&theme=transparent&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayfelpareja&layout=compact&theme=transparent&hide_border=true&title_color=6C63FF&text_color=ffffff" />
-</p>
-
----
 
 ### 🚀 Currently Exploring
 
